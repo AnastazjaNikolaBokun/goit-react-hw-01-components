@@ -1,0 +1,33 @@
+.friendList {
+    list-style: none;
+}
+
+.item {
+text-transform: uppercase;
+width: 250px;
+border-style: solid;
+margin: 25px;
+}
+
+.status1 {
+    background-color: lightgreen;
+    display: flex;
+    align-items: center;
+}
+
+.status2 {
+    background-color: pink;
+    display: flex;
+    align-items: center;
+}
+
+.avatar {
+    height: 50px;
+    width: 50px;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 20px;
+    padding: 20px;
+}
